@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Michael Silva.
 - 👀 Estou a procura de vagas na área de desenvolvimento.
-- 🌱 Atualmente estudo as linguagens PHP, SAS, Python.
+- 🌱 Atualmente estudo as linguagens PHP e o Framework SASS
 - 📫 Podem me achar através do e-mail michaelsilv@gmail.com
 
 <div align="center">
